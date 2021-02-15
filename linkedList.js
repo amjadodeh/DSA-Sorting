@@ -272,7 +272,6 @@ function cycles(list) {
 
 console.log(cycles(CycleList));
 
-// Sorting a list
 function sortList(list) {
   let currentNode = list.head;
   let storeNode;
